@@ -1,1 +1,1 @@
-the program for median is coming soon. actually am facing problem with time complexity
+Previously I posted a faulty code for median and mode and I am very sorry for that glitch. I found out that in code of median the program was not sorting data correctly in a specific order and in mode program it was not printing mode of the dataset correctly rather it displayed trash values in that place. so now I have corrected it and it is now available for public use.
